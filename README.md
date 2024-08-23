@@ -1,10 +1,10 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ # NAME :ARAVIND G
+ # REGISTER NUMBER :212223240011
+ # DEPARTMENT : AIML
+ # YEAR : 2nd YEAR
 
  
 # Aim:
@@ -49,7 +49,13 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
- 
+![image](https://github.com/user-attachments/assets/650f3519-dbb8-4a60-b80f-45e643039ccb)
+![image](https://github.com/user-attachments/assets/5383264b-ddbf-47a9-a3c8-f3255a3f53b3)
+![image](https://github.com/user-attachments/assets/cc8dd963-83fb-46ae-b9a4-a67a13d1bf3b)
+![image](https://github.com/user-attachments/assets/cb7fc66a-1515-4ba9-9ed1-20d343d116e6)
+![image](https://github.com/user-attachments/assets/fb082fc9-8c9b-408f-8032-b387d0d07863)
+![image](https://github.com/user-attachments/assets/de39d795-0f0b-4a35-a6df-307c9b9c5f91)
+
 # Procedure:
 Setup the PLC Programming Environment:
 
@@ -79,6 +85,12 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+![9b53ec74-b4a6-45b5-bfdf-7c578c70dcc0](https://github.com/user-attachments/assets/d38dab73-50be-4817-b037-060de9c01607)
+![011538dc-d0cc-469f-aac8-5ed1f849a5d6](https://github.com/user-attachments/assets/81422049-35ad-47e2-a4e9-927d915a63ef)
+![ab01cdf2-e77d-4f47-b930-6e0a2fd35a80](https://github.com/user-attachments/assets/56be5f36-0792-4b4a-8b53-d5a08b0620ef)
+![IIOT MOODEL](https://github.com/user-attachments/assets/a1de6dcd-89d9-4b7a-94d2-b6b7d6bb3986)
+![Screenshot 2024-08-23 083904](https://github.com/user-attachments/assets/ffe778f9-8303-4668-9c40-e03bff5e3216)
+
 
 
 #Results:
